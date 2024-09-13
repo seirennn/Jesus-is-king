@@ -1,0 +1,22 @@
+[33m5f69986[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from 689fdb5cac7ae659c8b924b80da7d35cf25b30f8 to main
+[33m689fdb5[m HEAD@{1}: commit: implemented Horizon.otf font
+[33mbb196a6[m HEAD@{2}: commit: unfixed on displaying pages
+[33meee45dc[m HEAD@{3}: commit: unfixed on displaying pages
+[33me11392a[m HEAD@{4}: commit: changed navbar appearance
+[33m0accdea[m HEAD@{5}: commit: changed navbar appearance
+[33mfaf389a[m HEAD@{6}: commit: changed navbar appearance
+[33m9786125[m HEAD@{7}: commit (merge): .
+[33m5f69986[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: checkout: moving from main to 5f69986
+[33m5f69986[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{9}: commit: unk
+[33md2ff836[m HEAD@{10}: commit: fixed bg
+[33m105339c[m HEAD@{11}: commit: .
+[33m46d2665[m HEAD@{12}: commit: .
+[33m0f6a26e[m HEAD@{13}: commit: .
+[33m18ccade[m HEAD@{14}: commit: oops
+[33mc06b99e[m HEAD@{15}: commit: new components
+[33ma11661f[m HEAD@{16}: commit: changed navbar order
+[33m346a805[m HEAD@{17}: pull: Fast-forward
+[33md1fcdb9[m HEAD@{18}: commit: added features
+[33m1d42a0e[m HEAD@{19}: commit: changed background
+[33m1886db2[m HEAD@{20}: commit: .
+[33mb6c203a[m HEAD@{21}: clone: from https://github.com/seirennn/odyX_evalmodel.git

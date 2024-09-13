@@ -1,0 +1,50 @@
+/* Import Google Fonts (Inter and Roboto) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap');
+
+/* Tailwind Base Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Gradient Text Style */
+.gradient-text {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Custom Font Face for 'Horizon' */
+@font-face {
+  font-family: 'Horizon';
+  src: url('/fonts/horizon.otf') format('truetype');
+}
+
+
+/* Global Styles */
+html {
+  scroll-behavior: smooth;
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  background-color: #010101;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Hero Section Font with Horizon Font */
+.hero-font {
+  font-family: 'Horizon', sans-serif;
+}
+
+/* Custom Background Image Class */
+.custom-img {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9a1c5c106417257.5f8f6bcc00663.png");
+  background-size: 900px 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+
+}
